@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<com.delta.mobility.agent.data.AgentMobilityData>
+  <taskCInstance>00-09-05-0001-46F056C4</taskCInstance>
+  <messageReference>
+    <timestampServer>2018-06-28 16:40:52</timestampServer>
+    <timestampUTC>2018-06-28 21:40:52</timestampUTC>
+    <station>LGA</station>
+  </messageReference>
+  <taskDetails>
+    <taskInstance>00-09-05-0001-46F056C4</taskInstance>
+    <taskName>PB/LB</taskName>
+    <deliveryFormat>Local</deliveryFormat>
+    <status>Assigned</status>
+    <resourceNumber>084813600</resourceNumber>
+    <resourceName>WILLIAMS, MALCOLM</resourceName>
+    <shiftStart>06/28/2018 12:30:00</shiftStart>
+    <shiftEnd>06/28/2018 19:00:00</shiftEnd>
+    <startPosition>BF5</startPosition>
+    <endPosition>BF5</endPosition>
+    <taskStart>06/28/2018 16:47:00</taskStart>
+    <taskEnd>06/28/2018 16:59:00</taskEnd>
+    <taskDuration>12</taskDuration>
+    <taskComment> </taskComment>
+    <taskMessageList/>
+    <flightDetails>
+      <flightInformation>
+        <flightCInstance>00-0C-02-0001-4BC8AF94</flightCInstance>
+        <carrierCode>9E</carrierCode>
+        <flightNumber>5327</flightNumber>
+        <origin>YUL</origin>
+        <destination>LGA</destination>
+        <flightDate>06/28/2018</flightDate>
+        <scheduledTime>06/28/2018 14:36:00</scheduledTime>
+        <estimatedTime>06/28/2018 16:47:00</estimatedTime>
+        <gate>BF5</gate>
+        <lockedETA></lockedETA>
+        <shipNumber>9304</shipNumber>
+        <domInt>I</domInt>
+        <flightStatus>OnGround</flightStatus>
+        <category></category>
+        <flightCbp>GT</flightCbp>
+        <preCleared>Precleared</preCleared>
+      </flightInformation>
+      <flightLoadList>
+        <com.delta.mobility.agent.data.FlightLoadData>
+          <finalDestination></finalDestination>
+          <binLocation></binLocation>
+          <loadType>9_BAGS</loadType>
+          <loadCount>32</loadCount>
+        </com.delta.mobility.agent.data.FlightLoadData>
+        <com.delta.mobility.agent.data.FlightLoadData>
+          <finalDestination></finalDestination>
+          <binLocation></binLocation>
+          <loadType>LCL_BAGS</loadType>
+          <loadCount>18</loadCount>
+        </com.delta.mobility.agent.data.FlightLoadData>
+        <com.delta.mobility.agent.data.FlightLoadData>
+          <finalDestination></finalDestination>
+          <binLocation></binLocation>
+          <loadType>LCL_BAGS</loadType>
+          <loadCount>14</loadCount>
+        </com.delta.mobility.agent.data.FlightLoadData>
+        <com.delta.mobility.agent.data.FlightLoadData>
+          <finalDestination></finalDestination>
+          <binLocation></binLocation>
+          <loadType>LCL_BAGS</loadType>
+          <loadCount>7</loadCount>
+        </com.delta.mobility.agent.data.FlightLoadData>
+        <com.delta.mobility.agent.data.FlightLoadData>
+          <finalDestination></finalDestination>
+          <binLocation></binLocation>
+          <loadType>LCL_BAGS_NONE</loadType>
+          <loadCount>7</loadCount>
+        </com.delta.mobility.agent.data.FlightLoadData>
+        <com.delta.mobility.agent.data.FlightLoadData>
+          <finalDestination></finalDestination>
+          <binLocation></binLocation>
+          <loadType>XFR_BAGS</loadType>
+          <loadCount>4</loadCount>
+        </com.delta.mobility.agent.data.FlightLoadData>
+      </flightLoadList>
+      <connectionList/>
+      <teamList>
+        <com.delta.mobility.agent.data.TeamData>
+          <resourceName>ABEKAN, ASHIRIFI</resourceName>
+          <resourceNumber>062018700</resourceNumber>
+          <resourceLocation>XFRPM</resourceLocation>
+          <taskName>C/D</taskName>
+        </com.delta.mobility.agent.data.TeamData>
+      </teamList>
+    </flightDetails>
+  </taskDetails>
+</com.delta.mobility.agent.data.AgentMobilityData>
